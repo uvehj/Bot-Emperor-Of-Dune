@@ -1,3 +1,5 @@
+#Creates and sends single tweet
+
 import markovify
 import sys
 from twython import Twython
